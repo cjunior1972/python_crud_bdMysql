@@ -1,0 +1,29 @@
+PRIMEIRA VEZ
+git init
+git add .
+git status 
+git commit -m "Mensagem explicada"
+git branch -M main
+git remote add origin git@github.com:cjunior1972/python_crud_bdMysql.git
+git push -u origin main
+
++ ATUALIZAÇÕES
+git add .
+git status 
+git commit -m "Mensagem explicada"
+git status 
+git push
+
+
+NOVA BRANCH
+git clean -fd
+​git fetch --all
+​git pull origin develop
+​git log
+​git checkout -b "nome da branch"
+​git branch
+
+
+
+
+
